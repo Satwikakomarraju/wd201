@@ -83,4 +83,4 @@ const todoList = () => {
   let itemsDueLater = todos.dueLater();
   let formattedItemsDueLater = todos.toDisplayableList(itemsDueLater, true);
   console.log(formattedItemsDueLater);
-  console.log("\n\n")
+  console.log("\n\n");
